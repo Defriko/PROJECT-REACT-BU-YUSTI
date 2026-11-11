@@ -1,0 +1,42 @@
+.container {
+    width: 90%;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+h1{
+    color: #7e22ce;
+    text-align: center;
+}
+
+h3{
+    color: #581c87;
+}
+
+p{
+    text-align: center;
+    color: #666;
+}
+
+input{
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    padding: 12px;
+    background: #7e22ce;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
